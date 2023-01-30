@@ -1,4 +1,4 @@
-# QuantumCore
+# Win32.Shockwave
 
 - spyware mechanisms
 - data-exfiltration and infliltration

@@ -7,6 +7,14 @@ This repository holds the implementation and whitepaper for my entry at the Cart
 - **./whitepaper**: contains the whitepaper that describes this submission formally
 - **./implementation**: contains the source code used for thus submission
 
+## Pre-Eliminary Project Ideas
+
+- **decentralized cross-chain oracle**: useful for aggregating big datasets into on-chain ML models.
+- **dROS**: decentralized version of pyROS. Probably not gonna work due to high computation need of pyROS
+- **decentralized recruitation platform**: recruitation platform for DAOs and on-ramped companies. include self-sovereign DIDs (frontend, cartesi-backend)
+- **decentralized password-vault**: Novel idea: splitting hashed passwords across a storage network like swarm to maximize security. write novel mechanism that splits pre-hashed passwords across a directed-graph lile storage network for encryption and decentralization. When reading pws, the splitting engine would match the splits and reverse-hash the pws. The pws will be read-write-only for their associated adresses.
+
+
 ## Criteria and Judgement
 
 We will score projects based on the following criteria, and each will be scored from 1 to 5 for a maximum of 25 points:

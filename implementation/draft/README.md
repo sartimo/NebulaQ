@@ -29,3 +29,5 @@ Pw gets splitted by the splitting engine.
 Splitted parts are assigned to an ID similar to a directed graoh
 
 Splitted Parts are distributed over the storage network similar to swarm of ipfs
+
+Write Linux UI using C++

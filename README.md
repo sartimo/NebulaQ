@@ -13,7 +13,7 @@ This repository holds the implementation and whitepaper for my entry at the Cart
 - **dROS**: decentralized version of pyROS. Probably not gonna work due to high computation need of pyROS
 - **decentralized recruitation platform**: recruitation platform for DAOs and on-ramped companies. include self-sovereign DIDs (frontend, cartesi-backend)
 - **decentralized password-vault**: Novel idea: splitting hashed passwords across a storage network like swarm to maximize security. write novel mechanism that splits pre-hashed passwords across a directed-graph lile storage network for encryption and decentralization. When reading pws, the splitting engine would match the splits and reverse-hash the pws. The pws will be read-write-only for their associated adresses. The smart-contracts for the splitter should be deployed on evm and backend/middle-end should be running on a cartesi rollup. Frontend for interacting with the vault using web3modal.
-
+- **linux app for formal-verification and dApp auditing**
 
 
 ## Criteria and Judgement

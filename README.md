@@ -34,3 +34,11 @@ We will score projects based on the following criteria, and each will be scored 
 ### Level of completion.
 
 - Which stage of development is your project at?
+
+## Project Dates
+
+- 🟡 Tuesday April 25th, 12PM UTC - 🚨 Project Submission Deadline 🚨
+- 🟡 Saturday April 29th
+- 🔵 12PM UTC - Project Demos Pitching and Judging Session      
+- 🔵 2PM UTC - Award Announcement Session and Closing Ceremony
+

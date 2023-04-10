@@ -2,6 +2,11 @@
 
 This repository holds the implementation and whitepaper for my entry at the Cartesi Hackathon 2023.
 
+## Project Structure
+
+- **./whitepaper**: contains the whitepaper that describes this submission formally
+- **./implementation**: contains the source code used for thus submission
+
 ## Criteria and Judgement
 
 We will score projects based on the following criteria, and each will be scored from 1 to 5 for a maximum of 25 points:

@@ -5,7 +5,7 @@ This repository holds the implementation and whitepaper for my entry at the Cart
 ## Project Structure
 
 - **./whitepaper**: contains the whitepaper that describes this submission formally
-- **./implementation**: contains the source code used for thus submission
+- **./implementation**: contains the source code used for this submission
 
 ## Pre-Eliminary Project Ideas
 

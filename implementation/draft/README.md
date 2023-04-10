@@ -13,3 +13,19 @@
 2. User chooses desired PW.
 3. PW gets verified on-chain if user is owner.
 4. 
+
+# Ideas 
+
+Pw gets pre-hashed using a two-way asymmetric methods. Using cartesi 
+
+The pw needs public and private key for modificatilns and reading.
+
+Intend to use dynamic soulbound tokens and public/private key.
+
+Pw gets overlay e2e with another layer of asymmetric keys
+
+Pw gets splitted by the splitting engine.
+
+Splitted parts are assigned to an ID similar to a directed graoh
+
+Splitted Parts are distributed over the storage network similar to swarm of ipfs

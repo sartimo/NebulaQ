@@ -8,6 +8,8 @@ NebulaQ: An open-source mechanical design for a scalable planar ion-trapping qua
 
 https://www.google.com/search?q=pcb+ion+trap&tbm=isch&ved=2ahUKEwiqtIPU6euBAxU6micCHWoFDSEQ2-cCegQIABAA&oq=pcb+ion+trap&gs_lcp=CgNpbWcQAzoHCAAQExCABDoICAAQCBAeEBM6BggAEB4QEzoICAAQBRAeEBM6BQgAEIAEOgcIABCKBRBDOgQIABAeOgYIABAIEB5QxAZYiRlg3xxoAHAAeACAAV2IAZEGkgECMTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=uHElZar4K7q0nsEP6oq0iAI&bih=937&biw=1920&rlz=1C1GCEU_deCH1032CH1032#imgrc=wC1mpyX-5b1nyM&imgdii=eDHlQAq8PTOr_M
 
+https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1033&context=spacegrant
+
 - **UHV or XHV Chamber**: https://slideplayer.com/slide/4215246/
 - **Laser Optics**: 
 - **CNC Milling Machine**: https://www.google.com/search?q=gold+cnc+milling+machine&tbm=isch&ved=2ahUKEwj_3v6OtImAAxXUNOwKHd58CtoQ2-cCegQIABAA&oq=gold+cnc+milling+machine&gs_lcp=CgNpbWcQAzoHCAAQExCABFCAB1i0EGCjE2gBcAB4AIABPIgBxQKSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=X7yuZL-zPNTpsAfe-anQDQ&bih=937&biw=1920&rlz=1C1GCEU_deCH1032CH1032#imgrc=1aUxIGaoxLxHkM
